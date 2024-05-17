@@ -1,5 +1,15 @@
 # MERN Application With Grafana And Prometheus
 
+![image](https://github.com/kaverigojre/MERN-Application-with-Grafana-and-Prometheus/assets/15703572/72afcbf4-d14e-4fed-87ca-39961e8ca5c8)
+
+![image](https://github.com/kaverigojre/MERN-Application-with-Grafana-and-Prometheus/assets/15703572/f7341ded-86a6-4f2e-b545-705ae7111220)
+
+![alt text](./screenshots/image-12.png)
+
+![alt text](./screenshots/image-13.png)
+
+![alt text](./screenshots/image-14.png)
+
 ## Objective:
 - Develop an advanced monitoring solution for a MERN application using Grafana and Prometheus. This assignment includes setting up detailed monitoring for a full-stack JavaScript application, including database, backend, and frontend performance metrics, as well as log aggregation and tracing.
   

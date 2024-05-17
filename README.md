@@ -30,8 +30,8 @@ docker exec -it mongodb /bin/bash
 mongosh -u root -p root
 use travelmemory
 db.createUser({
-    user: "root",
-    pwd: "secret1234",
+    user: "",
+    pwd: "",
     roles: [{ role: "readWrite", db: "travelmemory" }]
 });
 
@@ -48,7 +48,7 @@ touch .env
 
 ```
 
-## Put these below code inside .env file
+## Add  .env file with database Cred
 
 ```
 PORT=3001
@@ -60,7 +60,7 @@ MONGO_URI='URL/travelmemory'
 npm install prom-client
 ```
 
-## Put these below code inside backend/index.js file
+## Added below code inside backend/index.js file
 
 ```js
 const promClient = require('prom-client'); 
@@ -114,9 +114,9 @@ app.get('/metrics', async (req, res) => {
 ```yml
 ---
 mongodb:
-  uri: "mongodb://root:secret1234@127.0.0.1:27017/travelmemory"
-  username: "root"
-  password: "secret1234"
+  uri: "mongodb://URL/travelmemory"
+  username: ""
+  password: ""
 ```
 
 ## Create file prometheus-config.yml inside backend folder and put below code 

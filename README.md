@@ -475,31 +475,11 @@ finally
 - select what you show and click on apply button show on dashboard
 - after add visualization save dashboard for not lossing your visualization
 
-## Screenshots
+![image](https://github.com/kaverigojre/MERN-Application-with-Grafana-and-Prometheus/assets/15703572/72afcbf4-d14e-4fed-87ca-39961e8ca5c8)
 
-![alt text](./screenshots/image.png)
+![image](https://github.com/kaverigojre/MERN-Application-with-Grafana-and-Prometheus/assets/15703572/f7341ded-86a6-4f2e-b545-705ae7111220)
 
-![alt text](./screenshots/image-1.png)
 
-![alt text](./screenshots/image-2.png)
-
-![alt text](./screenshots/image-3.png)
-
-![alt text](./screenshots/image-4.png)
-
-![alt text](./screenshots/image-5.png)
-
-![alt text](./screenshots/image-6.png)
-
-![alt text](./screenshots/image-7.png)
-
-![alt text](./screenshots/image-8.png)
-
-![alt text](./screenshots/image-9.png)
-
-![alt text](./screenshots/image-10.png)
-
-![alt text](./screenshots/image-11.png)
 
 ![alt text](./screenshots/image-12.png)
 

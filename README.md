@@ -1,9 +1,8 @@
 # MERN Application With Grafana And Prometheus
-Assignment on MERN Application with Grafana and Prometheus
 
 ## Objective:
 - Develop an advanced monitoring solution for a MERN application using Grafana and Prometheus. This assignment includes setting up detailed monitoring for a full-stack JavaScript application, including database, backend, and frontend performance metrics, as well as log aggregation and tracing.
-
+  
 ## Task
 1. MERN Application Setup:
     - Deploy a travel memory application in your local machine.

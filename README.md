@@ -52,7 +52,7 @@ touch .env
 
 ```
 PORT=3001
-MONGO_URI='mongodb://root:secret1234@127.0.0.1:27017/travelmemory'
+MONGO_URI='URL/travelmemory'
 ```
 
 ## Setup some packages for metrics for Prometheus in the backend

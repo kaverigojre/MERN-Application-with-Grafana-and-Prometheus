@@ -50,9 +50,9 @@ db.createUser({
 ```bash
 mkdir aws-projects
 cd aws-projects/
-git clone https://github.com/surendergupta/mern-app-with-grafana-and-prometheus.git
+git clone https://github.com/mern-app-with-grafana-and-prometheus.git
 cd mern-app-with-grafana-and-prometheus/
-git clone https://github.com/surendergupta/TravelMemory.git
+git clone https://github.com/TravelMemory.git
 cd backend/
 touch .env
 
@@ -484,14 +484,4 @@ finally
 - select what you show and click on apply button show on dashboard
 - after add visualization save dashboard for not lossing your visualization
 
-![image](https://github.com/kaverigojre/MERN-Application-with-Grafana-and-Prometheus/assets/15703572/72afcbf4-d14e-4fed-87ca-39961e8ca5c8)
 
-![image](https://github.com/kaverigojre/MERN-Application-with-Grafana-and-Prometheus/assets/15703572/f7341ded-86a6-4f2e-b545-705ae7111220)
-
-
-
-![alt text](./screenshots/image-12.png)
-
-![alt text](./screenshots/image-13.png)
-
-![alt text](./screenshots/image-14.png)
